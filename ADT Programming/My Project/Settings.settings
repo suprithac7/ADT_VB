@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="PLevelFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\Users\BEL-3\Desktop\ADT\Pressure Levels.xlsx</Value>
+    </Setting>
+    <Setting Name="TmrFormatPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\Users\BEL-3\Desktop\ADT\TMR_Format.xlsx</Value>
+    </Setting>
+    <Setting Name="ISAFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\BEL-3\Desktop\ADT</Value>
+    </Setting>
+    <Setting Name="VMeterAddr" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">28</Value>
+    </Setting>
+    <Setting Name="FMeterAddr" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="ComAddr" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
